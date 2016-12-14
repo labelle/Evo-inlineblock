@@ -19,22 +19,26 @@ Code samples for an inline code block with four different styles: text wrap on l
 
 ## Screenshot
 
+>No class on the code tag fullscreen
+
 ![inline codeblock](./img/codeblockfullwidthscroll.png "inline codeblock")
+
+>No class on the code tag small screen
 
 ![inline codeblock](./img/inlinecodeblockfullwidthwrapwrapping.png "inline codeblock")
 
-class="nowrap" 
+>class="nowrap" on the code tag
 
 ![inline codeblock](./img/notfullwidthscrollfull.png "inline codeblock")
 
-class="short"
+>class="short" on the code tag
 
 ![inline codeblock](./img/notfullwidthscroll.png "inline codeblock")
 
-class="darktheme"
+>class="darktheme" on the code tag
 
 ![inline codeblock](./img/darkfullwidthwrap.png "inline codeblock")
 
-class="darktheme short"
+>class="darktheme short" on the code tag
 
 ![inline codeblock](./img/darkthemeshort.png "inline codeblock")
