@@ -1,4 +1,4 @@
-# evo - inline code block
+# evo-code-inline
 
 ## Summary
 Code samples for an inline code block with four different styles: text wrap on light background with 100% width, scrolling on light background with 100% width, scrolling on light background and only as wide as the text requires, text wrap on dark background with 100% width. 
