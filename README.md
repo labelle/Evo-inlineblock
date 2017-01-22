@@ -1,7 +1,9 @@
 # evo-code-inline
 
 ## Summary
-Code samples for an inline code block with four different styles: text wrap on light background with 100% width, scrolling on light background with 100% width, scrolling on light background and only as wide as the text requires, text wrap on dark background with 100% width. 
+Code samples for an inline code block with four different styles: text wrap on light background with 100% width, scrolling on light background with 100% width, scrolling on light background and only as wide as the text requires, text wrap on dark background with 100% width.
+
+See [evo code block](https://github.com/labelle/evo-code-block/) for more powerful code mirror functionality.
 
 ## Setup
 * Add the reference to the stylesheet and set it's pathway.
